@@ -1,11 +1,5 @@
-abstract class A {
+Git Steps:
+git add FinalTest.java
+git commit -m "first commit" A.java
+git push -u origin master
 
-	private A() {
-
-	}
-
-	public static void main(String[] args) {
-
-	}
-
-}
